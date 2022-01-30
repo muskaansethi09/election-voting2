@@ -1,0 +1,41 @@
+OUTPUT 
+
+---- WELCOME TO VOTING 2022 ----
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 0. Exit
+ Please enter your choice : 1
+
+
+ --- PLEASE CHOOSE YOUR CANDIDATE ---
+
+ 1. KABIR KHURANA
+ 2. AMIRA KHOLI
+ 3. VEER OBEROI
+INPUT YOUR CHOICE (1 - 3) : 3
+
+ --- THANKS FOR THE VOTE ---
+
+
+ ---- WELCOME TO VOTING 2022 ----
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 0. Exit
+ Please enter your choice : 2
+
+
+ --- VOTING STATISTICS ---
+ KABIR KHURANA - 0 
+ AMIRA KHOLI - 0 
+ VEER OBEROI - 1 
+
+
+ ---- WELCOME TO VOTING 2022 ----
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 0. Exit
+ Please enter your choice : 0
+ 
+ Error: Invalid Choice
+
