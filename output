@@ -1,5 +1,3 @@
-OUTPUT 
-
 ---- WELCOME TO VOTING 2022 ----
 
  1. Cast the Vote
@@ -38,4 +36,3 @@ INPUT YOUR CHOICE (1 - 3) : 3
  Please enter your choice : 0
  
  Error: Invalid Choice
-
